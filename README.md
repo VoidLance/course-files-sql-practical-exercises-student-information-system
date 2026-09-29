@@ -93,7 +93,3 @@ This project is maintained by
 issues and pull requests. Keep changes focused on the learning objectives,
 include reproducible SQL where appropriate, and update the relevant notes when
 an exercise or expected result changes.
-
-## License
-
-See the repository's [`LICENSE`](LICENSE) file for licensing information.
